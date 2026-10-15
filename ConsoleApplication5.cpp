@@ -6,10 +6,10 @@ int main() {
 
     printf("Tilo\n");
 
-    printf("Enter t1: ");
+    printf("Vvedit t1: ");
     scanf_s("%d", &t1);
 
-    printf("Enter t2: ");
+    printf("Vvedit t2: ");
     scanf_s("%d", &t2);
 
     double S1 = g * t1 * t1 / 2;
